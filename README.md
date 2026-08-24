@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://drive.google.com/file/d/15DRJkRVogK5ZU3bOs8cK0zbJ1HBq40dA/view?usp=sharing" width="140" height="140" style="border-radius: 50%;" alt="Abhishek Karad"/>
+<img src="https://github.com/Abhishek-Karad.png" width="140" height="140" style="border-radius: 50%;" alt="Abhishek Karad"/>
 
 # Abhishek Karad
 
